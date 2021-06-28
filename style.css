@@ -1,0 +1,12 @@
+
+body{
+  background-color: rgb(219, 226, 226);
+}
+.row{
+  background-color :whitesmoke;
+  border-radius: 50px;
+}
+.img-fluid{
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
